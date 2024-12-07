@@ -1,4 +1,4 @@
-Here’s the suggested **README** content for your GitHub repository:
+https://github.com/hijirdella/House-Price-Analysis-EDA-and-Correlation-Insights/blob/d8fe50341ccb3ec7c76d2fc7a380a5eac3c971f9/EDA%20House%20Prices.jpg
 
 ---
 
