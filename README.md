@@ -73,6 +73,57 @@ Key variables like `OverallQual`, `GrLivArea`, and `Neighborhood` show strong re
    - **T-Test:** Comparing mean house prices between different years.
    - **ANOVA:** Testing variance in house prices across years.
 
+## Hasil Pengujian Statistik
+
+| **Pengujian yang Digunakan**   | **Uji Pearson**                                                                                       |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Tujuan**                     | Menguji hubungan signifikan antara tahun penjualan dan harga rumah                                     |
+| **Statistik Uji**              | Pearson Correlation: -0.0289                                                                          |
+| **P-Value**                    | 0.2694                                                                                               |
+| **Kesimpulan**                 | Gagal menolak Hipotesis Nol (H0)                                                                      |
+| **Interpretasi**               | Tidak ada hubungan signifikan antara tahun penjualan dan harga rumah                                  |
+
+---
+
+| **Pengujian yang Digunakan**   | **Uji Chi-Square**                                                                                    |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Tujuan**                     | Menguji perbedaan signifikan dalam distribusi harga rumah                                              |
+| **Statistik Uji**              | Chi2 Statistic: 8.6713                                                                                |
+| **P-Value**                    | 0.7307                                                                                               |
+| **Kesimpulan**                 | Gagal menolak Hipotesis Nol (H0)                                                                      |
+| **Interpretasi**               | Tidak ada perbedaan signifikan dalam distribusi harga rumah dari tahun 2006-2010                      |
+
+---
+
+| **Pengujian yang Digunakan**   | **Uji T-Test**                                                                                        |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Tujuan**                     | Menguji perbedaan signifikan dalam rata-rata harga rumah                                               |
+| **Statistik Uji**              | T-Statistic: 0.4950                                                                                  |
+| **P-Value**                    | 0.5344                                                                                               |
+| **Kesimpulan**                 | Gagal menolak Hipotesis Nol (H0)                                                                      |
+| **Interpretasi**               | Tidak ada perbedaan signifikan dalam rata-rata harga rumah dari tahun 2006-2010                      |
+
+---
+
+| **Pengujian yang Digunakan**   | **Uji ANOVA**                                                                                         |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Tujuan**                     | Menguji perbedaan signifikan dalam rata-rata harga rumah                                               |
+| **Statistik Uji**              | F-Statistic: 0.6455                                                                                  |
+| **P-Value**                    | 0.6301                                                                                               |
+| **Kesimpulan**                 | Gagal menolak Hipotesis Nol (H0)                                                                      |
+| **Interpretasi**               | Tidak ada perbedaan signifikan dalam rata-rata harga rumah dari tahun 2006-2010                      |
+
+---
+
+| **Pengujian yang Digunakan**   | **Regresi Linear**                                                                                   |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Tujuan**                     | Menguji hubungan linear antara tahun penjualan (YrSold) dan harga rumah (SalePrice)                   |
+| **Statistik Uji**              | R-squared: 0.001, F-statistic: 1.221                                                                 |
+| **P-Value**                    | 0.2690                                                                                               |
+| **Kesimpulan**                 | Gagal menolak Hipotesis Nol (H0)                                                                      |
+| **Interpretasi**               | Tidak ada perbedaan signifikan antara harga rumah pada tahun 2006-2010. Kenaikan harga rumah tidak signifikan. |
+
+
 ---
 
 ## **Key Insights**
