@@ -1,4 +1,4 @@
-!([https://github.com/hijirdella/EDA-Homecredit/blob/bd1d5234e6c158e3e27dc9651fdc0c21cfa86a28/BI%20Graph/0.%20Distribusi%20Jumlah%20Kredit%20yang%20Diajukan.png](https://github.com/hijirdella/House-Price-Analysis-EDA-and-Correlation-Insights/blob/d8fe50341ccb3ec7c76d2fc7a380a5eac3c971f9/EDA%20House%20Prices.jpg))
+!(https://github.com/hijirdella/House-Price-Analysis-EDA-and-Correlation-Insights/blob/d8fe50341ccb3ec7c76d2fc7a380a5eac3c971f9/EDA%20House%20Prices.jpg)
 
 
 ---
