@@ -1,4 +1,4 @@
-!(https://github.com/hijirdella/House-Price-Analysis-EDA-and-Correlation-Insights/blob/d8fe50341ccb3ec7c76d2fc7a380a5eac3c971f9/EDA%20House%20Prices.jpg)
+![Cover](https://github.com/hijirdella/House-Price-Analysis-EDA-and-Correlation-Insights/blob/0e51d36f0517d45598298bb031f31c9a320040fb/EDA%20House%20Prices.jpg)
 
 
 ---
